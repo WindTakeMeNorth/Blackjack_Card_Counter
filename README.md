@@ -1,4 +1,4 @@
-# Blackjack-counter
+# Blackjack-Card-Counter
 
 ### Introduction
 This project implements a **Blackjack card High-Low counting strategy** [1] using R. The goal is to simulate a Blackjack game environment where probabilities are **dynamically calculated** [2] based on the drawn cards. The script provides **real-time** recommendations for bet sizes, optimizing the player's decision-making process by calculating expected profitability. It serves as a practical tool for anyone looking to practice or explore card counting techniques in Blackjack.
