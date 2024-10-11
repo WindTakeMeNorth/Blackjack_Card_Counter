@@ -5,12 +5,13 @@ This project implements a **Blackjack card High-Low counting strategy** [1] usin
 
 You can use the **numeric keypad** to input cards where *numbers represent their corresponding values, and "." represents 10, J, Q, K, and Ace.* Additionally, the initial **house advantage** [3] can be adjusted according to your own rules, and you can set your desired **betting threshold** to determine when you want to start placing bets.  
 
-The Experiment document was designed to vilad the theory u'd like to use and give brief ideas on how to use it real-life scenario. Years later I found a more comprehensive version was on https://www.blackjack-hack.com/ via a secret forum.
+The Experiment document was designed to vilad the theory u'd like to use and give brief ideas on how to use it real-life scenario. Years later I found a more comprehensive version was on https://www.blackjack-hack.com/ via a secret forum. 
 
 ### Features
 * Dynamic calculation of remaining cards and probabilities.    
 * Real-time bet recommendation based on card count.  
-* Easy-to-use interface for simulating different game scenarios.  
+* Easy-to-use interface for simulating different game scenarios.
+* Feel free to switch from Lo-Hi counting to Wong Halves or Omega III.
 
 ### How to Use
 Clone the repository:
