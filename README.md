@@ -4,7 +4,7 @@
 ### Introduction
 This project implements a **Blackjack card counting strategy** using R. The goal is to simulate a Blackjack game environment where probabilities are **dynamically calculated** based on the drawn cards. The script provides **real-time** recommendations for bet sizes, optimizing the player's decision-making process by calculating expected profitability. It serves as a practical tool for anyone looking to practice or explore card counting techniques in Blackjack.
 
-You can use the **numeric keypad** to input cards where *numbers represent their corresponding values, and "." represents 10, J, Q, K, and Ace.* Additionally, the initial **house advantage** ^1^ can be adjusted according to your own rules, and you can set your desired **betting threshold** to determine when you want to start placing bets.
+You can use the **numeric keypad** to input cards where *numbers represent their corresponding values, and "." represents 10, J, Q, K, and Ace.* Additionally, the initial **house advantage**[^1] can be adjusted according to your own rules, and you can set your desired **betting threshold** to determine when you want to start placing bets.
 
 ### Features
 * Dynamic calculation of remaining cards and probabilities.    
